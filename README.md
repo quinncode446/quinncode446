@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there, I'm quinncode446 👋
 
-<!--
-**quinncode446/quinncode446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Barcelona, Spain.
 
-Here are some ideas to get you started:
+#### 🛠️ What I use
+TypeScript, Python, FastAPI, React, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm up to
+- Working on micro-SaaS, developer productivity, lightweight tools
+- Exploring new frameworks and tools
+- Contributing to open-source projects
+
+📫 Reach me: [@quinncode446](https://github.com/quinncode446) on GitHub
